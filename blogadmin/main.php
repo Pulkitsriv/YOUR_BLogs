@@ -134,7 +134,7 @@
 <footer class="footer footer-inverse">
       <div class="container">
         <div class="text-center">
-          <small>Blog Admin 2018 | Brought To You By <a href="http://code-projects.org/">Code-Projects</a></small>
+          <small><a href="https://github.com/Dev4821/YOUR_BLogs">@2022 YOUR BLogs, Inc</a></small>
         </div>
       </div>
     </footer>
