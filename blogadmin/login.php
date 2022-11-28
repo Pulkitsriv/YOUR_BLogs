@@ -6,7 +6,7 @@
 <?php } ?>
 
 <div class="row">
-	<div class="col-sm-6 col-lg-8" id="login_splash">
+	<div class="col-sm-6 col-lg-4" id="login_splash">
 		<!-- customized splash content here -->
 	</div>
 	<div class="col-sm-6 col-lg-4">

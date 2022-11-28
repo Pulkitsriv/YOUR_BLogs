@@ -101,7 +101,7 @@
 
 <?php if(!$noSignup){ ?>
 	<div class="row">
-		<div class="hidden-xs col-sm-4 col-md-6 col-lg-8" id="signup_splash">
+		<div class="hidden-xs col-sm-4 col-md-6 col-lg-4" id="signup_splash">
 			<!-- customized splash content here -->
 		</div>
 
